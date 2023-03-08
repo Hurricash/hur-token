@@ -1,2 +1,2 @@
 # Hurricash token (HUR)
-Offical token for future governance and LP anonymity mining
+Community token for future governance
